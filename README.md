@@ -1,6 +1,6 @@
-# Hii 👋🏾 I'm Joy
+# Hii 👋🏾 I'm Muchiri Mwangi
 
-👩‍💻 *Full-stack Web Developer* | Turning ideas into interactive digital experiences
+👨‍💻 *Full-Stack Web Developer* | Turning ideas into interactive digital experiences
 
 <br>
 
@@ -8,12 +8,13 @@
 
 I’m a *Web Developer* and *Tech Enthusiast* who thrives on transforming intricate challenges into streamlined, user-friendly solutions. My passion lies in creating *dynamic web applications* that don’t just work—they captivate, inform, and inspire. ✨
 
-With a unique blend of *creativity* and *technical prowess, I strive to build digital experiences that are as functional as they are visually appealing. Whether it's crafting sleek UIs or designing efficient backends, I love bridging the gap between **design* and *technology*.
+Combining *creativity* with *technical expertise*, I aim to deliver digital experiences that are as functional as they are visually stunning. From designing sleek, responsive UIs to building efficient and robust backends, I enjoy bridging the gap between **design** and **technology**.
+
+---
 
 ## <u>🔧 Tech Stack </u>
 
-
-- #### <u> Frontend </u>:
+- **Frontend**:
   
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,50 +22,38 @@ With a unique blend of *creativity* and *technical prowess, I strive to build di
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- *Backend*:
+- **Backend**:
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 
-- *Build Tools*:  
-  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
+- **Build Tools**:
+  
+  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-
-- *Database*:
+- **Database**:
   
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-- *Tools*:
+- **Tools**:
   
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## <u> 💼 Projects that Define My Journey </u>
-
-
-- *Taste Tribe: A modern **recipe platform* featuring advanced filtering and search capabilities.
-  Focusing on responsive design, it delivers a top-tier user experience across devices.
-  
-  - *Tech Highlights*: React, TailwindCSS, Python, SQLite
-  - *Repository Link*: [https://github.com/Nicolex0/TasteTribe_2.0]
-
 
 ## <u> 🛠️ How I Build</u>
 
-I believe in the *art of clean code*—writing maintainable, scalable solutions that prioritize performance and user experience.
-With expertise in leveraging modern tools like *React, **Tailwind CSS, and **Vite* to create responsive and performant applications
-I constantly refine my coding practices, combining the best of *functional programming* and *design patterns*.
+I believe in the *art of clean code*—writing maintainable, scalable solutions that prioritize performance and user experience. By leveraging modern tools like *React, Node.js, Tailwind CSS*, and *Vite*, I create responsive, high-performance applications. I continuously refine my coding practices, blending *functional programming* and *design patterns* to deliver exceptional results.
+
+---
 
 ## <u> 🌐 Let's Collaborate and Connect</u>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-simiyu-880b71319)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muchiri-mwangi-muchirithedev/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muchiri.mwangi.100@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muchiri_the_dev_?igsh=cGtnajhnYzd2YjI1)
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanjirusimiyu@gmail.com)
+If you’re looking for someone to bring your digital ideas to life and create stunning, high-performance applications 🌟, let's connect!
 
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/png.wanjiru/)
-
-
-If you’re looking for someone who can bring creative solutions to the table and turn ideas into reality 🌟, I’d love to connect!
