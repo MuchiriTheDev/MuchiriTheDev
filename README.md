@@ -19,7 +19,9 @@ Combining *creativity* with *technical expertise*, I aim to deliver digital expe
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **Backend**:
@@ -36,6 +38,11 @@ Combining *creativity* with *technical expertise*, I aim to deliver digital expe
   
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+- **Design Tools**:
+  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canvas](https://img.shields.io/badge/Canvas-0056D2?style=for-the-badge&logoColor=white)
+
 - **Tools**:
   
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +52,7 @@ Combining *creativity* with *technical expertise*, I aim to deliver digital expe
 
 ## <u> 🛠️ How I Build</u>
 
-I believe in the *art of clean code*—writing maintainable, scalable solutions that prioritize performance and user experience. By leveraging modern tools like *React, Node.js, Tailwind CSS*, and *Vite*, I create responsive, high-performance applications. I continuously refine my coding practices, blending *functional programming* and *design patterns* to deliver exceptional results.
+I believe in the *art of clean code*—writing maintainable, scalable solutions that prioritize performance and user experience. By leveraging modern tools like *React, TypeScript, Next.js, Node.js, Tailwind CSS*, and *Vite*, I create responsive, high-performance applications. I continuously refine my coding practices, blending *functional programming* and *design patterns* to deliver exceptional results.
 
 ---
 
@@ -56,4 +63,3 @@ I believe in the *art of clean code*—writing maintainable, scalable solutions 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muchiri_the_dev_?igsh=cGtnajhnYzd2YjI1)
 
 If you’re looking for someone to bring your digital ideas to life and create stunning, high-performance applications 🌟, let's connect!
-
