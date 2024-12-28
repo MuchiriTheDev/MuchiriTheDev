@@ -1,4 +1,4 @@
-# Hii 👋🏾 I'm Muchiri Mwangi
+# Hey 👋🏾 I'm Muchiri Mwangi
 
 👨‍💻 *Full-Stack Web Developer* | Turning ideas into interactive digital experiences
 
@@ -37,6 +37,11 @@ Combining *creativity* with *technical expertise*, I aim to deliver digital expe
 - **Database**:
   
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 - **Design Tools**:
   
